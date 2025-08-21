@@ -3,3 +3,4 @@ notebook
 ipywidgets
 pandas
 openpyxl
+# trigger rebuild
