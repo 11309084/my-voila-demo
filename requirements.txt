@@ -3,4 +3,4 @@ notebook
 ipywidgets
 pandas
 openpyxl
-trigger binder rebuil
+# trigger binder rebuild
